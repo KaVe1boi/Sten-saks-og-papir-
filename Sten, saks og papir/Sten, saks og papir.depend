@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699260451 source:c:\users\kimth\onedrive - herningsholm erhvervsskole\herningsholm\2.g\it\codeblock\test project\codesource\test console\sten, saks og papir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
